@@ -1,0 +1,11 @@
+38
+42,start\t0\t0\t0\t0\t0\t0\t
+42,linie test 001 normal\t0\t0\t0\t0\t0\t0\t
+42,linie test 002 bold\t1\t0\t0\t0\t0\t0\t
+42,linie test 003 italic\t0\t1\t0\t0\t0\t0\t
+42,linie test 004 double\t0\t0\t1\t0\t0\t0\t
+42,linie test 005 underline\t0\t0\t0\t1\t0\t0\t
+42,linie test 006 right\t0\t0\t0\t0\t2\t0\t
+42,linie test 007 condensed\t0\t0\t0\t0\t0\t1\t
+42,finish\t0\t0\t0\t0\t0\t0\t
+39

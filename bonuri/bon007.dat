@@ -1,11 +1,7 @@
-38
-42,start\t0\t0\t0\t0\t0\t0\t
-42,linie test 001 normal\t0\t0\t0\t0\t0\t0\t
-42,linie test 002 bold\t1\t0\t0\t0\t0\t0\t
-42,linie test 003 italic\t0\t1\t0\t0\t0\t0\t
-42,linie test 004 double\t0\t0\t1\t0\t0\t0\t
-42,linie test 005 underline\t0\t0\t0\t1\t0\t0\t
-42,linie test 006 right\t0\t0\t0\t0\t2\t0\t
-42,linie test 007 condensed\t0\t0\t0\t0\t0\t1\t
-42,finish\t0\t0\t0\t0\t0\t0\t
-39
+48,1\t0001\t1\t\t\t
+54,02549-001-0216\t\t\t\t\t\t\t
+54,M1TE\t\t\t\t\t\t\t
+49,PULPA VITA \t2\t28.00\t0.612\t0\t0\t0\tkg\t
+49,FICAT DE PUI\t2\t13.50\t0.490\t0\t0\t0\tkg\t
+53,0\t100.00\t
+56

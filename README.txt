@@ -1,6 +1,8 @@
 Kit de instalare Datecs3
 ------------------------
 
+In "build" se afla Inno Setup Script Wizard "inno_kit_maker.iss".
+
 Kit-ul de instalare se afla in directorul install:
 Datecs3Install.exe
 
